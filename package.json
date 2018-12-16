@@ -1,0 +1,20 @@
+{
+  "name": "node-auth-api",
+  "version": "1.0.0",
+  "description": "Creating API using node with JWT token",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "rest",
+    "API",
+    "node"
+  ],
+  "author": "webdevankush",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0"
+  }
+}
